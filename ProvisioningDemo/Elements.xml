@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="TEKFOCUS logo 96x96.png" Url="TEKFOCUS logo 96x96.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
